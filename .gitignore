@@ -1,0 +1,27 @@
+# Binary files
+*.exe
+*.out
+*.o
+bus_app
+
+# CLion and CMake build directories
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+.idea/
+
+# Editor/IDE generated
+*.log
+*.swp
+*.swo
+
+# macOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+
+# Backup files
+*~

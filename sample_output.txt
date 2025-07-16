@@ -1,0 +1,38 @@
+===== Welcome to the Bus Reservation System =====
+
+1. Sign In
+2. Sign Up
+3. Exit
+
+Enter your choice: 1
+Enter your phone number: 01712345678
+Enter your PIN: ****
+
+Login Successful!
+
+Available Locations:
+1. Dhaka
+2. Barishal
+3. Chittagong
+4. Faridpur
+5. Kurigram
+
+Enter Departure Location: Dhaka
+Enter Destination Location: Chittagong
+
+Available Departure Times:
+1. 6 AM
+2. 12 PM
+3. 6 PM
+
+Choose Time: 2
+
+Available Seats: 25
+Enter number of tickets: 2
+
+Total Price: 1100 BDT
+
+Ticket booked successfully!
+Ticket saved to ticket.txt
+
+Thank you for using the Bus Reservation System!
