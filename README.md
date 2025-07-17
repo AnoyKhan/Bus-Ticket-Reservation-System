@@ -16,7 +16,7 @@ To create a simple and user-friendly bus ticket reservation system where users c
 - 🔐 Admin Panel for Monitoring
 - 🎨 Colored UI for Sign In/Up Screens
 - 🚫 Input Validations (Phone: 11-digit, PIN Retry, Exit Option)
-- 🆔 Unique Ticket ID Generation (e.g., TKT1201) for each booking
+- 🆔 Unique Ticket ID Generating (e.g., TRIP0001) for each booking
 
 ---
 ## 🔍 Features in Detail
